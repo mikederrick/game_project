@@ -5,7 +5,7 @@ import static org.junit.Assert.assertThat;
 
 import java.net.URL;
 
-import whitechapel.login.User;
+import whitechapel.users.User;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -22,7 +22,7 @@ import org.springframework.web.client.RestTemplate;
 @SpringApplicationConfiguration(classes = Application.class)
 @WebAppConfiguration
 @IntegrationTest({"server.port=0"})
-public class LoginControllerTest {
+public class UsersControllerTest {
 
     @Value("${local.server.port}")
     private int port;
@@ -33,12 +33,12 @@ public class LoginControllerTest {
 
 	@Before
 	public void setUp() throws Exception {
-		this.base = new URL("http://localhost:" + port + "/api/v1/login");
+		this.base = new URL("http://localhost:" + port + "/api/v1/users");
 		template = new TestRestTemplate();
 	}
 
 	@Test
-	public void getHello() throws Exception {
+	public void postingUserAlwaysReturnsBruceWayneUntilAuthIsImplemented() {
 		ResponseEntity<User> response = template.postForEntity(base.toString(), null, User.class);
 		assertThat(response.getBody().getFirstName(), equalTo("Bruce"));
 		assertThat(response.getBody().getLastName(), equalTo("Wayne"));

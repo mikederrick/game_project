@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "jmlgameproject",
+  "private_key_id": "25fa3d0f885579688bf1d358b69ce354b66e4259",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDIv7XUbbmQTIZE\n03l4zuqZfmWer/Z2JqOcJPwVmU4O7+t03bNHYAy5TcxZDQTtqFXEYR4/eqNBgEFv\nXbs0Ghs9xa+6I80B7H9tlK0RWVqt+uoIo5skxloLXtQoUYUcXlF8VFzWe14W5GXk\nGmkom6EXll0ti9PC47tB8ZtcqbmMAApKyEulNOa6qrYv5pAN/In7KE8/YBs0zQpy\nx9xeQlJxQNBLq6cJzYz4sjXkJoAtWBXkI9aDXwU6DpbB1PGJtp0yEm/yUT37Vdso\nbXI6IzRKYm7hsO6fkAzpLPKeJ5/fgKl3HRn0AygtkSBPWpQdjTiCFc37yFtlePNX\nguKRs7sdAgMBAAECggEAXJSNNrqjqXihM3yTuLM0XjV8iAJ+l16adZhY6V0aMqlS\n3UKhO3mAZLUMWMU4UKIha7+eQ4g7YinUA5gmjZC8n3Bb6mw4T3rSCadXaXjb6QCe\njf1lvz/6puPE1BNEYCDfU4dUiVW7vrL2iovjk2aylD40Gp0xu99qrK7QB5v+hiFs\nUIyUZFZ+PmR8ln0FDF9dWrYHUwCvxqEH+LfcnkaJX+6Udcv114Rlr52Himk3QrCk\nkp6RuzghywT5YS+yx5zEVmDYyJT57xGKCGhHw5IK0XuF8V22WMHvS24+8H0EqDcI\nsCxJTDEqcb0mUsHcxQ6+e9uMIFNvfoqK7lEwia07wQKBgQD8XXmzFZw/0pzMaw2e\nqrDlSNNbgw+AE6CyBzgwURNpm5IRIT8mDCr0NR24iX6TZBcbcGgeeKM1zAtQYHsy\nRiQnChkcFoAADSr8oh5GI+PnYWcKWhUNXXE2bqJyaTDFAKu9pVQC6w/sQcDelL2a\nc0Eo4GfEgLYri29ypmyxYyi5PwKBgQDLo+oh+M3j2YfKGXeKcpJwTMwxl6f+Z6M1\npONhDmBPXqCdhPLXse1tolmc3QVrqzyUgyf2tJgO07tpSumjJir1HPPp78IKzfOi\nijhEhBJ02+sRNdvH3GjDqdvcgfmFlUezPvlBYaDH4+ORapYRUqcZ+hciUO12Tl1y\nHawWqcA4owKBgFc7BD73oEubRCGQe2O1wnFui8gc9DWkEy6WOkDRNXGSmZmcMVS4\nbfx9g6lutTbDKQ2N/B9UOa31uo9s2giVoBdycR15VYMvCgXLD8XU0AkBbPlyC8bT\n3rce5L3BSF9ADRz/UZu0noteawlExojlf8deUd/lUZKZnss1ZWqnSMNHAoGATWel\n5HndUQFrkw9xF+gK77LRXvxld9dO+2IMp+S+CQ1QAe/6GrDgLe8rHuwIVm/FXDIq\na6Ujs2cZ8qDuA/zLEVaLBF4FJPQ56oudbbXCCjdZt7YAL40BKXaUQtII1ZTzpxeF\nySth4PknlCuulTEUoVQlnP6j9Hc/H9RViFvH2/8CgYEAmryzEEuGttsaWB9ThxbD\ncWUy94fKfChmGhwXZToCBAuXcW16g5XTg7ECeN8erlSXFZrXFRGKQXrysTrT4iZQ\nIF7nQX9vmgmSrWV+k07lzD4CW3xOgo221aDHi4OGQLdUV6/R6Q5VXm0u99B0BJrn\nXFCie4+t0ZmN+9nZ/8Mqkkk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "jmlgameproject@appspot.gserviceaccount.com",
+  "client_id": "107369931581180998936",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jmlgameproject%40appspot.gserviceaccount.com"
+}
